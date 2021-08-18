@@ -2,5 +2,8 @@
   "extends": [
     "config:base"
   ],
+  "constraints": {
+    "composer": "2.0"
+  },
   "rangeStrategy": "update-lockfile"
 }
